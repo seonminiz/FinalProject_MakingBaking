@@ -7,9 +7,9 @@
 <h2>:pushpin: 프로젝트 방식</h2>
 Sping MVC
 <h2>:hammer_and_pick: 개발 도구</h2>
-<img src="https://img.shields.io/badge/STS4-#6DB33F?style=flat&logo=STS4&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/STS4-6DB33F?style=flat&logo=STS4&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <h2>:raised_hands: 개발언어</h2>
 JAVA, HTML, CSS, JavaScript, jQuery
