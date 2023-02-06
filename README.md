@@ -49,13 +49,10 @@ Sping MVC
 
 # :technologist: 구현부분
 <h2>관리자 페이지</h2>
-1. 회원관리
+<h5>회원, 원데이클래스, 상품, 주문 및 예약, 리뷰 관리</h5>
 <li><strong>Pageable</strong>을 사용해 Pagination 구현</li>
-<li>searchCondition, searchKeyword 속성을 user 클래스에 추가하여 검색기능 구현</li>
-<li>관리자가 회원을 탈퇴시키는 경우, ajax를 이용해 백단에 전송</li>
+<li>searchCondition, searchKeyword 속성을 클래스에 추가하여 <strong>검색기능 구현</strong></li>
+<li>등록, 수정, 상세보기--------</li>
+<li>회원, 원데이클래스, 상품, 리뷰 <strong>삭제 시, ajax를 이용해 백단에 전송</strong></li>
 <li>window.open을 이용하여, 팝업창구현(회원의 정보/리뷰/QnA 상세보기)</li>
-2. 원데이클래스 관리
-<li></li>
-4. 상품 관리
-5. 주문 및 예약관리
-6. 리뷰 관리
+<li>참여현황/배송상태변경--------</li>
