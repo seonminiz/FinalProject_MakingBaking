@@ -15,7 +15,7 @@ Sping MVC
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
 <br>
-<h2>:raised_hands: 개발언어</h2>
+<h2>:books: 개발언어</h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
