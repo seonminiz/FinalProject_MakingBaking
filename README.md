@@ -2,12 +2,15 @@
 
 <h3>MakingBaking, 원데이클래스 예약 및 상품 판매 사이트</h3>
 <p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
-<br>
-<h2>프로젝트 기간</h2>
+<h2>:calendar: 프로젝트 기간</h2>
 2022.12.05 ~ 2023.01.20
-- 프로젝트 방식 : Sping MVC
-- 개발 도구 : STS4, MySQL Workbench, VSCode
-- 개발 언어 : JAVA, HTML, CSS, JavaScript, jQuery
+<h2>:pushpin: 프로젝트 방식</h2>
+Sping MVC
+<h2>:: 개발 도구</h2>
+STS4, MySQL Workbench, VSCode
+<h2>:raised_hands: 개발언어</h2>
+JAVA, HTML, CSS, JavaScript, jQuery
+<h2>:globe_with_meridians: 오픈 API</h2>
 - 오픈 API : Daum 주소검색 api, KakaoMap api, Kakao 로그인 api, KakaoPay api
 
 # 프로젝트 설명
