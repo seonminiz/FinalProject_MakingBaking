@@ -25,7 +25,13 @@ Sping MVC
 </div>
 <br>
 <h2>:globe_with_meridians: 오픈 API</h2>
-Daum 주소검색 api, KakaoMap api, Kakao 로그인 api, KakaoPay api
+<li>Daum 주소검색 api</li>
+<li>KakaoMap api</li>
+<li>Kakao 로그인 api</li>
+<li>KakaoPay api</li>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonminiz&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seonminiz&show_icons=true">
 
 <h2>:sound:프로젝트 설명</h2>
 <li>Spring Boot를 사용한 프로젝트입니다.</li>
