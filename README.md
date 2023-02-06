@@ -4,14 +4,20 @@
 <p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
 <h2>:calendar: 프로젝트 기간</h2>
 2022.12.05 ~ 2023.01.20 (46일)
+<br>
 <h2>:pushpin: 프로젝트 방식</h2>
 Sping MVC
+<br>
 <h2>:hammer_and_pick: 개발 도구</h2>
-<img src="https://img.shields.io/badge/STS4-6DB33F?style=flat&logo=STS4&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/STS4-6DB33F?style=flat&logo=STS4&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<br>
 <h2>:raised_hands: 개발언어</h2>
+<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat&logo=jQuery&logoColor=white"/>
+
 JAVA, HTML, CSS, JavaScript, jQuery
 <h2>:globe_with_meridians: 오픈 API</h2>
 - 오픈 API : Daum 주소검색 api, KakaoMap api, Kakao 로그인 api, KakaoPay api
