@@ -1,6 +1,7 @@
 # FinalProject_MakingBaking
 
-<h3>
+<h3>MakingBaking, 원데이클래스 예약 및 상품 판매 사이트</h3>
+<p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
 - 프로젝트 기간 : 2022.12.05 ~ 2023.01.20
 - 프로젝트 방식 : Sping MVC
 - 개발 도구 : STS4, MySQL Workbench, VSCode
