@@ -47,7 +47,7 @@ Sping MVC
 <li>부가적으로 비밀번호를 잃어버렸을 경우 이메일로 임시 비밀번호를 발급해주는 기능을 구현하였습니다.</li>
 <br>
 
-# :technologist: 구현부분
+# 👩‍💻: 구현부분
 <h2>관리자 페이지</h2>
 <h5>회원, 원데이클래스, 상품, 주문 및 예약, 리뷰 관리</h5>
 <li><strong>Pageable</strong>을 사용해 Pagination 구현</li>
