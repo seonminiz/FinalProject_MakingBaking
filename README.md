@@ -6,7 +6,7 @@
 2022.12.05 ~ 2023.01.20
 <h2>:pushpin: 프로젝트 방식</h2>
 Sping MVC
-<h2>:: 개발 도구</h2>
+<h2>:hammer_and_pick: 개발 도구</h2>
 STS4, MySQL Workbench, VSCode
 <h2>:raised_hands: 개발언어</h2>
 JAVA, HTML, CSS, JavaScript, jQuery
