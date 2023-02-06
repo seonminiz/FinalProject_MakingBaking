@@ -16,17 +16,18 @@ Sping MVC
 </div>
 <br>
 <h2>:raised_hands: 개발언어</h2>
-<img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-#0769AD?style=flat&logo=jQuery&logoColor=white"/>
-
-JAVA, HTML, CSS, JavaScript, jQuery
+<div align="center">
+	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+</div>
+<br>
 <h2>:globe_with_meridians: 오픈 API</h2>
-- 오픈 API : Daum 주소검색 api, KakaoMap api, Kakao 로그인 api, KakaoPay api
+Daum 주소검색 api, KakaoMap api, Kakao 로그인 api, KakaoPay api
 
-# 프로젝트 설명
+<h2>:sound:프로젝트 설명</h2>
 - Spring Boot를 사용한 프로젝트입니다.
 - 원데이클래스 예약 및 상품 판매 사이트로 일반 회원은 기본적으로 상품 구매, 원데이클래스 예약이 가능하고 결제를 취소할 수 있습니다.
 - 관리자는 회원 관리, 원데이클래스와 상품 관리, 게시판 관리, 리뷰 관리를 할 수 있습니다.
