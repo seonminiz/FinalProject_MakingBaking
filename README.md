@@ -1,5 +1,6 @@
 # FinalProject_MakingBaking
 
+<h3>
 - 프로젝트 기간 : 2022.12.05 ~ 2023.01.20
 - 프로젝트 방식 : Sping MVC
 - 개발 도구 : STS4, MySQL Workbench, VSCode
