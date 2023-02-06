@@ -3,11 +3,14 @@
 <h3>MakingBaking, 원데이클래스 예약 및 상품 판매 사이트</h3>
 <p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
 <h2>:calendar: 프로젝트 기간</h2>
-2022.12.05 ~ 2023.01.20
+2022.12.05 ~ 2023.01.20 (46일)
 <h2>:pushpin: 프로젝트 방식</h2>
 Sping MVC
 <h2>:hammer_and_pick: 개발 도구</h2>
-STS4, MySQL Workbench, VSCode
+<img src="https://img.shields.io/badge/STS4-#6DB33F?style=flat&logo=STS4&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+
 <h2>:raised_hands: 개발언어</h2>
 JAVA, HTML, CSS, JavaScript, jQuery
 <h2>:globe_with_meridians: 오픈 API</h2>
