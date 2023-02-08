@@ -1,7 +1,5 @@
 # MakingBaking Final Project
-<br>
 ![MakingBaking_시현](https://user-images.githubusercontent.com/110507639/217481206-18ebfe6f-9c2f-4c5d-a175-4d8c4eeaf679.gif)
-
 <h3>MakingBaking, 원데이클래스 예약 및 상품 판매 사이트</h3>
 <p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
 <br>
