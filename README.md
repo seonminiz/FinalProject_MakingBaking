@@ -1,15 +1,12 @@
 # MakingBaking Final Project
 
+![MakingBaking](https://user-images.githubusercontent.com/110507639/217479245-33657cf1-0e8b-48e7-b700-44c1f153e93a.gif)
 <h3>MakingBaking, 원데이클래스 예약 및 상품 판매 사이트</h3>
 <p>MZ 세대의 다양한 취미생활 열풍과 환경을 생각한 Vegan Bread 판매</p>
 <br>
 
 <h2>:calendar: 프로젝트 기간</h2>
 2022.12.05 ~ 2023.01.20 (46일)
-<br>
-
-<h2>:pushpin: 프로젝트 방식</h2>
-Sping MVC
 <br>
 
 <h2>:hammer_and_pick: Tools</h2>
@@ -52,7 +49,7 @@ Sping MVC
 <h4>회원, 원데이클래스, 상품, 주문 및 예약, 리뷰 관리</h4>
 <li><strong>Pageable</strong>을 사용해 Pagination 구현</li>
 <li>searchCondition, searchKeyword 속성을 클래스에 추가하여 <strong>검색기능 구현</strong></li>
-<li>등록, 수정, 상세보기--------</li>
+<li>원데이클래스/상품 등록, 수정, 삭제 가능</li>
 <li>회원, 원데이클래스, 상품, 리뷰 <strong>삭제 시, ajax를 이용해 백단에 전송</strong></li>
-<li>window.open을 이용하여, 팝업창구현(회원의 정보/리뷰/QnA 상세보기)</li>
-<li>참여현황/배송상태변경--------</li>
+<li>window.open을 이용하여, <strong>팝업창</strong>구현(회원의 정보/리뷰/QnA 상세보기)</li>
+<li>주문 및 예약 페이지에서 <strong>ajax를 이용하여 참여현황/배송상태 변경</strong></li>
